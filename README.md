@@ -7,9 +7,13 @@ Our project was an itinerary app that helped people simplify the process of keep
 
 # WanderSync - Contributors
 
-We acknowledge the following team members for their contributions to WanderSync:
+I want to acknowledge the following team members for their contributions to WanderSync:
 
-- **Team Member 1** - Firebase Integration
-- **Team Member 2** - UI/UX Design
-- **Team Member 3** - Data Visualization
-- **Team Member 4** - Website Deployment
+- **Sammith D.** - Firebase Integration
+- **Tucker Ritti** - Programming
+- **Vasili Fovos** - Debugging
+- **Moksh Shah** - Frontend Development
+- **Samarth Tewari** - Firebase Integration
+
+Sanjana, our TA, was also an amazing help in this process. She would always respond to our messages and make sure that she would help us if we needed assistance with anything.
+
