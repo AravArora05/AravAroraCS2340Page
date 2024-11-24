@@ -10,11 +10,19 @@ Overall, we all had a great time in this course. For me, I truly understood the 
 
 ## Design + Architecture
 
+##### Architecture
 Overall, here is our architecture that we used for WanderSync.
 
 For frontend, we're using Android Studio, ensuring a great UI for users and an intuitive experience.
 
 For backend, Firebase powers the backend offering real-time data management and synchronization across all devices for users. Firetime Realtime Database was the hub for storing all user information, managing reservations and making plans.
+
+#### Design Patterns
+
+We attempted to follow many design patterns in the innovation of our project. By following many helpful design patterns that we learned in the class, it made sure that our code is mantainable, and it will be easier for us to make updates/changes if needed to. Our team really emphasized the use of the various patterns.
+
+For example in Sprint 3, we wanted to employ the use of the Strategy Pattern.  In this sprint, we used the strategy pattern, for we wanted to allow the user to use different methods to sort the reservations. 
+
 
 ### Class Diagram
 
