@@ -10,11 +10,16 @@ Overall, we all had a great time in this course. For me, I truly understood the 
 
 ## Design + Architecture
 
+Overall, here is our architecture that we used for WanderSync.
+For frontend, we're using Android Studio, ensuring a great UI for users and an intuitive experience.
+For backend, Firebase powers the backend offering real-time data management and synchronization across all devices for users. Firetime Realtime Database was the hub for storing all user information, managing reservations and making plans.
+
 ### Class Diagram
+
 ![Design Class Diagram](images/Design_Class_Diagram.png "Design Class Diagram")
 
 ### Overall Design Diagram
-![Design Diagram](images/DesignDiagram.png "Design Diagram")
+![Design Diagram](images/Design_Diagram.png "Design Diagram Arav Arora")
 
 # WanderSync - Contributors
 
