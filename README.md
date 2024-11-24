@@ -21,7 +21,9 @@ For backend, Firebase powers the backend offering real-time data management and 
 
 We attempted to follow many design patterns in the innovation of our project. By following many helpful design patterns that we learned in the class, it made sure that our code is mantainable, and it will be easier for us to make updates/changes if needed to. Our team really emphasized the use of the various patterns.
 
-For example in Sprint 3, we wanted to employ the use of the Strategy Pattern.  In this sprint, we used the strategy pattern, for we wanted to allow the user to use different methods to sort the reservations. 
+For example in our application, we wanted to employ the use of the Strategy Pattern.  In this sprint, we used the strategy pattern, for we wanted to allow the user to use different methods to sort the reservations. 
+
+Furthermore, we also included the Creator pattern for GRASP. In our project, we have the TripPlanner class create instances of the Vacation class. We have the Trip Planner create instances of the Vacation class, because the Trip Planner contains all of the necessary detailed information of the Vacation class
 
 
 ### Class Diagram
