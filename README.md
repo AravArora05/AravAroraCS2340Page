@@ -10,6 +10,12 @@ Overall, we all had a great time in this course. For me, I truly understood the 
 
 ## Design + Architecture
 
+### Class Diagram
+![Design Class Diagram](images/Design_Class_Diagram.png "Design Class Diagram")
+
+### Overall Design Diagram
+![Design Diagram](images/DesignDiagram.png "Design Diagram")
+
 # WanderSync - Contributors
 
 I want to acknowledge the following team members for their contributions to WanderSync:
