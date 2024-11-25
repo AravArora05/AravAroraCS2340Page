@@ -54,15 +54,14 @@ Here are some UI images. We tried to make sure it was visually appealing and tha
 ![Welcome Screen](images/new_sc4.PNG "Welcome Screen")
 
 # WanderSync - Contributors
-
 I want to acknowledge the following team members for their contributions to WanderSync:
 
-- **Sammith D.** - Firebase Integration
-- **Tucker Ritti** - Programming
-- **Vasili Fovos** - Debugging
-- **Moksh Shah** - Frontend Development
-- **Samarth Tewari** - Firebase Integration
-- **Samarth Tewari** - UI Development
+- **Arav Arora** - Wrote the **Reflections** section, sharing insights about the team's learning experiences, challenges, and how we grew through the project.
+- **Tucker Ritti** - Authored the **Introduction** section, providing an overview of the WanderSync app and its purpose, key features, and functionality.
+- **Vasili Fovos** - Contributed to the **Design + Architecture** section, detailing the technical implementation, design patterns, and the project's overall architecture.
+- **Moksh Shah** - Developed the **Class Diagrams** section, illustrating the relationships between various classes and how they interact in the WanderSync system.
+- **Samarth Tewari + Sammith D.** - Created the **UI Screenshots and Descriptions**, ensuring the visuals were well-presented and user-centric.
+
 
 Sanjana, our TA, was also an amazing help in this process. She would always respond to our messages and make sure that she would help us if we needed assistance with anything.
 
