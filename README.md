@@ -33,6 +33,10 @@ Furthermore, we also included the Creator pattern for GRASP. In our project, we 
 ### Overall Design Diagram
 ![Design Diagram](images/Design_Diagram.png "Design Diagram Arav Arora")
 
+
+####  UI Images
+
+Here are some UI images. We tried to make sure it was visually appealing and that the UI design looks great. We really emphasized making sure the application was easy to use for all users of our application.
 # WanderSync - Contributors
 
 I want to acknowledge the following team members for their contributions to WanderSync:
