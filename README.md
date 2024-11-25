@@ -37,6 +37,20 @@ Furthermore, we also included the Creator pattern for GRASP. In our project, we 
 ####  UI Images
 
 Here are some UI images. We tried to make sure it was visually appealing and that the UI design looks great. We really emphasized making sure the application was easy to use for all users of our application.
+
+# WanderSync
+
+## Screenshots
+
+###  Screen #1
+![Login Screen](images/new_sc2.PNG "Login Screen")
+
+### Screen #2
+![Planner View](images/new_sc3.PNG "Planner View")
+
+### Screen #3
+![Welcome Screen](images/new_sc4.PNG "Welcome Screen")
+
 # WanderSync - Contributors
 
 I want to acknowledge the following team members for their contributions to WanderSync:
