@@ -53,6 +53,10 @@ Here are some UI images. We tried to make sure it was visually appealing and tha
 ### Screen #3
 ![Welcome Screen](images/new_sc4.PNG "Welcome Screen")
 
+
+## [View on Google Drive](https://drive.google.com/file/d/18kdEMW0DIu08Htf5t33)
+
+
 # WanderSync - Contributors
 I want to acknowledge the following team members for their contributions to WanderSync:
 
