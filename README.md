@@ -54,7 +54,7 @@ Here are some UI images. We tried to make sure it was visually appealing and tha
 ![Welcome Screen](images/new_sc4.PNG "Welcome Screen")
 
 
-## [View on Google Drive](https://drive.google.com/file/d/18kdEMW0DIu08Htf5t33)
+## [Watch on YouTube](https://youtube.com/shorts/CqzLb1bx1ZI?feature=share)
 
 
 # WanderSync - Contributors
